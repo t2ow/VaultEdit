@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11 -g
-LIBS = -lncurses  # Link the ncurses library
+LIBS = -lncurses  
 SRC = src/main.c
 OUT = build/VaultEdit
 
